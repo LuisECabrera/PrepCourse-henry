@@ -1,2 +1,1 @@
-# PrepCourse-henry
-esta es la segunda prueba del modulo dos 
+est es el segundo intento de como clonar un repositorio en github
